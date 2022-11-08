@@ -85,6 +85,9 @@ Hardware
 UPDATED Schematic:
 ------------------
 
+![image](https://user-images.githubusercontent.com/65078173/200595077-7beee2b7-f04c-4f49-870a-9e4b8d5b039e.png)
+![image](https://user-images.githubusercontent.com/65078173/200595196-3b7e296d-80cb-40f1-950e-2ff89ddf3483.png)
+
 For using AltSoftSerial, it requires pin 8 & 9 in UNO, thus the pins is updated as below
 
 ```md
