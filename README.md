@@ -253,7 +253,7 @@ Login as user huy
 Direct to to context `testdb` and create table mydb as user huy
 
 ```sql
-create table mydb(dateUploaded datetime, lat float(24), lng float(24), speed float(10), accX float(24), accY float(24), accZ float(24), name varchar(24) NOT NULL);
+create table mydb(dateUploaded datetime, lat float(24) NOT NULL, lng float(24) NOT NULL, speed float(10) NOT NULL, accX float(24) NOT NULL, accY float(24) NOT NULL, accZ float(24) NOT NULL, name varchar(24) NOT NULL);
 ```
 
 PHP-files
