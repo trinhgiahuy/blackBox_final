@@ -24,7 +24,7 @@
     "react-router-dom": "^6.4.2",
     "react-scripts": "5.0.1",
     "tedious": "^15.1.0",
-    "tss-react": "^4.3.4",
+    "tss-react": "^4.4.4",
     "web-vitals": "^2.1.4"
   },
   "scripts": {
